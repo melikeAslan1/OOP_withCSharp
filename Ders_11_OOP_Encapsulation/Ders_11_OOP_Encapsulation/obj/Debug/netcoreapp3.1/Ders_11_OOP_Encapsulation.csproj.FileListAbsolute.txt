@@ -1,0 +1,14 @@
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.exe
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.deps.json
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.runtimeconfig.json
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.runtimeconfig.dev.json
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.dll
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\bin\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.AssemblyInfo.cs
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.dll
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Ders_11_OOP_Encapsulation\Ders_11_OOP_Encapsulation\obj\Debug\netcoreapp3.1\Ders_11_OOP_Encapsulation.genruntimeconfig.cache
