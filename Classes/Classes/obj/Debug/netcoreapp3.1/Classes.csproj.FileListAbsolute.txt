@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Lenovo\Desktop\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Lenovo\Desktop\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
