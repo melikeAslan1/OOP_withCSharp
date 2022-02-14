@@ -1,0 +1,52 @@
+Sıralı Progreamlama Dilleri- Basic,QBasic, GWBasic
+
+Fonksiyonel Programlama Dilleri, ilk olarak kütüphane kavramı çıkmıştır. - C, Pascal
+
+OOP- 
+
+Component Based Programlama Dilleri-
+
+*Kaynak kodu benim anlayacağım dildir. Compile makine diline çevirir.
+
+*Metot imzası overload override bak.
+*struct yapısı bak.
+*referans tipli değişkenler, değer tipli değişkenler bak.
+*ön tanımlı değişkenler bak.
+*IL kavramına bak.
+
+polimorfizm, kapsüllmeme, kalıtım, abstraction
+
+1.Encapsulation
+6 tane encapsulation için kullandığımız şeyler var. Access Modifiers ları kullanarak Encapsulation yaparız. amaç olayı sadeleştirmektir.
+public, private, internal, protected, protected internal, private protected
+
+2.Inheritance
+C# ile ilgili teknik bir detay var iş görüşmelerinde soruyorlar: 
+multiple inheritance sadece C++ da var. yani bir sınıfın birden fazla atası olabilir. 
+C# da bir sınıfın bir tane atası olabilir. yani multiple inheritance yoktur.
+
+
+3.Polimorfizm (çok biçimlillik yada çok şekillilik)
+aynı isimdeki bir metodun farklı sınıflarda farklı şekilde çalışmasına polimorfizm diyoruz. override etme işlemine polimorfizm denir. 
+
+
+
+4.Abstraction
+bir dilde milyon tane class var. 4 çeşit class vardır. abstract class, sield class, statik class, normal class. şekil abstract bir kavramdır. 
+şekilden bir instance oluşturulamaz. 
+
+--parametreli yapıcı metot oluşturunca sistem otomatik olarak parametresiz yapıcı metot oluşturmaz. 
+
+--nesne oluşunca hip bölgesinde bir alan kaplıyor. class ve obje aynı şey değildir. 
+
+
+
+
+
+
+
+
+
+
+
+
