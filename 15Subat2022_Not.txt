@@ -1,0 +1,94 @@
+-saklı prosedür bak.
+-delegate bak.
+-dependency injection bak.
+-indexers. 
+- forma bakıldı bugun nesne ile ilişkisine.
+
+
+
+
+*Bir iş yerinde size kod yazdırdıklarında kodundaki notasyonlar ve isimlendirme kurallarına bakarlar sonra da algoritmana bakarlar.
+
+Notasyonlar:
+1.Hungarian not.
+isimlendirme yaparken ilk üç harf yaptığınız işle ilgili olmalı. btnKaydet, cmbSecenek, dblMaas, txtAd, 
+
+2.Camel
+Daha çok javaScriptte kullanılır. ilk harf küçük sonrası büyükle başlar. documentWrite, musteriEkle(), faturaKes(), enBuyukSayi
+
+3.Pascal
+metot isimlerinde class isimlerinde kullanılır. kelimelerin başı büyükle başlar.  metot PersonelEkle(), 
+
+
+4.Snake
+buyuk_sayi, 
+
+5.Kebap Not.
+buyuk-sayi
+
+*isimlendirme yaptığın işle ilgili olmalı. mesela a deme. a nedir 
+
+
+4 çeşit metot var.
+1. değer döndürcek mi döndürmücek mi
+2.parametresi var mı yok mu.
+
+
+*bir metotta birden fazla return olabilir.
+
+*saklı prosedürler sadece integer değer döndürür.
+
+
+C# da 6 çeşit property vardır. 
+
+
+*C# da metot içinde metot tanımlanabilir. 
+
+*delegate kullanmıyosan c# ın yüzde 50 sini kullanmıyorsun.
+
+
+*class üyeleri: property,field(değişken), metot, yapıcı metod, yıkıcı metod
+deconstructure yani yıkıcı metot en son çalışan metot. bir classta 1 tane yıkıcı metot olabilir. bir obje RAM den silinirken en son
+yapmasını istediğin işlemi yıkıcı metot içine yazarsın. yıkıcı metot kullanmak performans problemlerine sebep olabilir.  
+
+
+*.Net framework Ramde üç bölüm ayırır. Bunlar: stack, heap, static bölge.
+
+
+this 4 yerde kullanılır.
+():base   ():this   this--> metot    this-->ctor
+this, extension(genişletme) metotlarının içinde de kullanılır.
+
+
+Personel p=new Personel{
+   PID=12,
+   PAd=" ",
+           }
+
+
+**dependency injection
+
+
+Debuging hataları ayırma süreci, ctrl+F5 ile debug sız çalıştırmadır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\bin\Debug\15Sybat_3.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\bin\Debug\15Sybat_3.exe
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\bin\Debug\15Sybat_3.pdb
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\obj\Debug\Subat15_YikiciMetot.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\obj\Debug\15Sybat_3.exe
+C:\Users\303MELİKE_SABAH\Desktop\15Sybat_3\15Sybat_3\obj\Debug\15Sybat_3.pdb
