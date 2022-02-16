@@ -32,7 +32,8 @@ aynı isimdeki bir metodun farklı sınıflarda farklı şekilde çalışmasına
 
 
 4.Abstraction
-bir dilde milyon tane class var. 4 çeşit class vardır. abstract class, sield class, statik class, normal class. şekil abstract bir kavramdır. 
+bir dilde milyon tane class var. 4 çeşit class vardır. abstract class, sield class, statik class, normal class. 
+şekil abstract bir kavramdır. 
 şekilden bir instance oluşturulamaz. 
 
 --parametreli yapıcı metot oluşturunca sistem otomatik olarak parametresiz yapıcı metot oluşturmaz. 
