@@ -1,0 +1,11 @@
+4 çeşit class anlatıldı. Buna çalış. uzunca anlatıldı. tablonun fotoğrafını çektim.
+türetilmesini istemediğimiz sınıfları Sealed yapıyoruz. 
+
+bir şey static ise tek bir kopyası tutulur. RAM de ondan bir tane olur. 
+
+*kolleksiyon ne bak. 
+*ado.net nedir entity framework nedir bak.
+
+bir class statikse içindekiler de statik olur ama tersi doğru değil. statik olmayan bişeyin içinde statik memberlar olabilir.
+
+

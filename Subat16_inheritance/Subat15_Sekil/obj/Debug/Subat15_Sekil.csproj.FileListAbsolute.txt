@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\bin\Debug\Subat16_Personel.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\bin\Debug\Subat16_Personel.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\bin\Debug\Subat16_Personel.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\obj\Debug\Subat16_Personel.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\obj\Debug\Subat16_Personel.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\obj\Debug\Subat16_Personel.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat16_Personel\Subat16_Personel\obj\Debug\Subat16_Personel.pdb
