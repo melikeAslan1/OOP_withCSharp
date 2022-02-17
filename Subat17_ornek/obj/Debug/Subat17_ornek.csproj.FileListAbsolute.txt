@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\bin\Debug\Subat17_ornek.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\bin\Debug\Subat17_ornek.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\bin\Debug\Subat17_ornek.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\obj\Debug\Subat17_ornek.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\obj\Debug\Subat17_ornek.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\obj\Debug\Subat17_ornek.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ornek\obj\Debug\Subat17_ornek.pdb

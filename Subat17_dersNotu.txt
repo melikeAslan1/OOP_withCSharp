@@ -1,0 +1,73 @@
+polimorfizm: çok biçimlilik
+aynı isimli metodun farklı sınıflarda farklı şekilde çalışması. polimorfizm bir problemin çözümüdür aslında. 
+
+*MVC kavramı bak.
+*base. bak
+
+parse sadece string değerleri dönüştürür. convert her tipi dönüştürür.
+
+soru: girilen herhangi bir onluk düzlemdeki sayıyı 2 lik tabana cevir.  (72)10=(?)2    ikiye böl hep tersten oku.
+
+soru: 100 kişilik bir sınıfta öğrenciler (1-10) arası not alıyorlar. not almayı rastgele ata. notların frekansını bul.
+kolay bir yöntemi var 6 satır falan. 
+
+virtual olunca polimorfizm i uygulayabilirsin demek. virtual i görüyorsam özelleştirebilir. 
+
+.....Kolleksiyonlar.....
+
+
+1.Normal Kolleksiyonlar
+ArrayList
+Stack (LIFO)
+Queue  (FIFO)
+Hashtable
+SortedList
+
+2.Jenerik (Generik) Kolleksiyonlar
+*List<T>
+Stack<T>  (LIFO)
+Queue<T>   (FIFO)
+*Dictionary<T>
+SortedList<T>
+
+çalışma mekaniği olarak kolleksiyonları 4 e ayırırız.
+en cok list ve dictionary kullanılır. RAM deki Stack ile kolleksiyonlardaki stack mantık aynıdır. 
+
+Generic yapılar cok kullanılıyor.
+Landa expression bu da çok kullanılıyor. 
+
+Recursive fonksiyon anlatıldı. Tahtaya cizildi foto cektim.
+
+
+
+-----Interfaces-----
+c# ın en önemli konularından biridir. c# multiple inheritance ı desteklemediği için bu eksikliği kapatmak için interfaceler ortaya cıkmıstır.
+1. Interfaces ile biz class lara yetenek kazandırırız.  
+
+arayüz denmesinin yerine contract yani sözleşme denmesi çok daha doğru olurdu.
+interface in içine gövdeyi yazmadan metotları yazarsın. ve classta bu metotları yazmak zorundayım.
+
+2. anlaşma sözleşme amacı ile kullanılır.
+3. .net framework ile uyum sağlamak için kullanılır yani herhangi bir class ınızı .Net framework ile uyumlu hale getirmek için kullanılır.
+4.Plug-in uygulamalar için kullanılır. yani uygulamaya eklenti geliştirmek eklemek için kullanılır.
+ class ın nasıl çalıştığı ile ilgilenmiyor sadece bir baglantı saglıyor. usb örneğini düşün. usb yi pc ye baglarsın 
+class ın ne olduğu ile ilgilenmiyor bağlantı noktası ile ilgileniyor. 
+
+interface in metotları zorunlu tutması belirli standartların sağlanması için önemlidir. o metot orda biliyorum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

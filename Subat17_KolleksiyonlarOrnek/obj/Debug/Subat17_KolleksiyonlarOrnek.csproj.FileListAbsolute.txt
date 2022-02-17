@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\bin\Debug\Subat17_KolleksiyonlarOrnek.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\bin\Debug\Subat17_KolleksiyonlarOrnek.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\bin\Debug\Subat17_KolleksiyonlarOrnek.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\obj\Debug\Subat17_KolleksiyonlarOrnek.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\obj\Debug\Subat17_KolleksiyonlarOrnek.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\obj\Debug\Subat17_KolleksiyonlarOrnek.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_KolleksiyonlarOrnek\obj\Debug\Subat17_KolleksiyonlarOrnek.pdb

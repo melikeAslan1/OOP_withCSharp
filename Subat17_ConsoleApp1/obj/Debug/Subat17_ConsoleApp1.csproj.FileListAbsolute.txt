@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\bin\Debug\Subat17_ConsoleApp1.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\bin\Debug\Subat17_ConsoleApp1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\bin\Debug\Subat17_ConsoleApp1.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\obj\Debug\Subat17_ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\obj\Debug\Subat17_ConsoleApp1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat17_ConsoleApp1\obj\Debug\Subat17_ConsoleApp1.pdb
