@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\bin\Debug\Subat18_Interfaces.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\bin\Debug\Subat18_Interfaces.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\bin\Debug\Subat18_Interfaces.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\obj\Debug\Subat18_Interfaces.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\obj\Debug\Subat18_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\obj\Debug\Subat18_Interfaces.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_Interfaces\Subat18_Interfaces\obj\Debug\Subat18_Interfaces.pdb

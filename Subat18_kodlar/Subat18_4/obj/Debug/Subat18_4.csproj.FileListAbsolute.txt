@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\bin\Debug\Subat18_4.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\bin\Debug\Subat18_4.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\bin\Debug\Subat18_4.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\obj\Debug\Subat18_4.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\obj\Debug\Subat18_4.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\obj\Debug\Subat18_4.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat18_4\obj\Debug\Subat18_4.pdb
