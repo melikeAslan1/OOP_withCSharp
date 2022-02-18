@@ -1,0 +1,10 @@
+Kod yazarken değişkenlere düzgün isim vermeliyiz. 
+interface yazarken başına I yazmalıyız.
+Blog yazı okurken tarihine bakmak lazım çünkü yeni versiyonlar çıkıyor. 
+
+Abstract ve interface de zorunluluk var. mutlaka kullanman lazım. 
+
+
+string bir ifadeyi nümerik değere eşleştirmek istersek Enum kullanırız. 
+
+haftaya multiple interface den bahsedicem biraz.
