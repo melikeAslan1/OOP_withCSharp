@@ -1,0 +1,73 @@
+SOLID Principles:
+
+Daha sonra var olan bir programı geliştirmek istediğimizde onu modifiye etmek istediğimizde kodum buna uygun olmalı. 
+Kodun bu şekilde olabilmesi için SOLID prensipleri kullanılır.
+Yani daha yönetilebilir kodların olabilmesi için kullanılır. Uzun vadede kod için kullanılır.
+
+interface leri parçalamak. 4. prensip.
+
+abstracct metodları kullanınca arada hiyerarşi olmak zorunda. Türetmeye bağımlılık var fakat interfacte böyle bir bağımlılık yok.
+
+GENERICS:
+
+genericle birlikte tip de artık bir değişken gibi davranıyor. tip de bir değişken gibi değişebiliyor. 
+İki nedenden dolayı biz generic yapıları kullanırız. 
+1. Performans      2. Tip Güvenliği(strongly type dan dolayı)
+c# strongly type dır. 
+C# tip konusunda cok iyidir. var ve dynamic ile bunu biraz eslettiler.
+JavaScript bu konuda aşırı esnektir. obje string null build vardır herşey bunun üzerinden gider. 
+
+Design Time: bizim kodu yazdığımız zaman.
+Run time: kodun RAM de çalıştığı zaman.
+
+*unboxing boxing anlatıldı bak. 
+
+
+Generic Kısıtlar(Constraints): 
+1. Struct
+2. Class
+3. Inheritance
+4. Interface
+5. new()
+
+
+Ön Tanımlı Değişkenler:
+
+c# ta 15 tane ön tanımlı değişken var. 13  2  diye ayırdık.
+13 tanesi struct tan turemiştir. 2 tanesi class tan türemiştir.
+clastan türeyenler: string ve object.
+değer tipli olanların karakteristiği şudur: kapasitesi önceden bilinir. fakat referans tiplinin bilinmez. 16 byte dan büyükse değişken struct yapısında kullanma bunu class a cevir diyor microsoft.
+class tan türeyen referans tiplidir. struct tan türeyenler değer tiplidir. 
+
+//Soru: Bir market urun olarak Bardak,Sut, Yogurt, KagitHavlu, Yumurta gibi urunler satmaktadır. Bu ürünlerden
+    // bazıları kırılabilen, bazısı bozulabilen veya belirli bir sürede satılması gereken ürünlerdir.
+    // 1. Marketteki tüm ürünleri listele...
+    // 2. Urun ekleyebildiğimiz...
+    //3. Cesitli durumlara gore rapor alabildiğimiz (süresi geçmiş ürünler, kırık ürünler vb gibi...)
+    
+    //Yukarıdaki durumları göz önüne alarak gerekli sistemi OOP kullanarak modelleyiniz ve yazınız.
+
+
+  //  interface(içinde bişey bişey olmalı), abstract class(1 tane gıda yada ürün), polimorfizm, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

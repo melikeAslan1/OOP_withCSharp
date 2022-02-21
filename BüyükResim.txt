@@ -1,0 +1,7 @@
+
+
+
+mobil uygulama geliştirmede database yerine rest full services kullanılır. backend olarak bir şey yok. 
+
+Javascript in en önemli 3 dönüm noktası vardır... JS - AJAX - Node.JS
+
