@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\bin\Debug\Subat22_3_Delegeler.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\bin\Debug\Subat22_3_Delegeler.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\bin\Debug\Subat22_3_Delegeler.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\obj\Debug\Subat22_3_Delegeler.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\obj\Debug\Subat22_3_Delegeler.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\obj\Debug\Subat22_3_Delegeler.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_3_Delegeler\Subat22_3_Delegeler\obj\Debug\Subat22_3_Delegeler.pdb

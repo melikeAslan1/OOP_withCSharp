@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\bin\Debug\Subat22_2.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\bin\Debug\Subat22_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\bin\Debug\Subat22_2.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\obj\Debug\Subat22_2.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\obj\Debug\Subat22_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat22_2\obj\Debug\Subat22_2.pdb

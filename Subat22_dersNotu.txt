@@ -1,0 +1,27 @@
+DELEGELER:
+
+Temsilci demektir.
+Temsilci dediğimiz şey fonksiyon pointerdır. c# daki delege bir kolleksiyon. 
+delege dediğimiz şey bir yada bir çok metodu taşımak için kullanılır.
+hangi metotları taşır? imzası ve return type ı aynı olan metotları taşır.
+
+parametre sayısı ve parametre tipi metodun imzasıdır. Dönüş tipi imza içinde değildir. 
+
+delegede imza  + return type önemli.
+
+metot taşıyan kolleksiyonlara delege diyoruz.
+
+Func<> (bir metot geriye değer döndürürse)  Action<> (metot eğer geriye birşey döndürmüyorsa action kullanılır. 
+bu iki delege bütün işi halleder. 
+
+imzası ve return type ı aynı olan metotları taşır delege.
+
+delege neden var ? ne işe yarar?
+
+windows işletim sistemi event-based dir. event-based: mesela kapının arkasına ısıtıcı koydun 
+mekanizmanın çalışması için kapının tokmağına birinin elinin değmesi lazım.
+biz sistemde bunları oluşturuyoruz ama o kod çalışmıyor. birinin onu tetiklemesini bekliyor. 
+RAMde metotları delege tutuyor. tetiklenince RAM deki metot çalışır.
+=> bu delegenin işareti. bu sembolü gördüğün her yerde delege var demektir. 
+multicase delege: birden cok metot bağlanmış delege.
+
