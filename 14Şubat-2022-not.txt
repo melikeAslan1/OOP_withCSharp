@@ -37,6 +37,10 @@ class Program
     }
 
 
+metot imzası:
+metot ismi, metodun aldığı parametrelerin tipleri, metodun aldığı parametre sayısı.
+
+
 
 OVERRIDE
 Kalıtım yolu ile sınıflar birbirinden türetilir ve bir sınıfın diğer bir sınıftan türediği zaman, 
@@ -79,6 +83,10 @@ public class Program
 
 override edilmiş bir metot içerisinden metodun orijinalini (temel sınıf içerisindeki halini) çağırabilmek 
 için base anahtar sözcüğü kullanılır.
+
+
+override da sadece metotun içi farklı.
+overloadingte metot ismi aynı imza farklı.
 
 
 -------------------------------------------------------------------------------------------------------------------
