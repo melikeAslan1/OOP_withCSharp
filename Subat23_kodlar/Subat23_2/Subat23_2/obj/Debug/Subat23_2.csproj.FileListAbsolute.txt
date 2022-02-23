@@ -1,0 +1,7 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\bin\Debug\Subat23_2.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\bin\Debug\Subat23_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\bin\Debug\Subat23_2.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\obj\Debug\Subat23_2.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\obj\Debug\Subat23_2.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\obj\Debug\Subat23_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat23_2\Subat23_2\obj\Debug\Subat23_2.pdb

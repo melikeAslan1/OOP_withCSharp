@@ -1,0 +1,24 @@
+Derse yarım saat gec geldim, delge devam edilmiş.
+metotlara parametre olarak delege de gidebilir interfacete.
+
+EVENTS:
+events ler de bir şekilde delegedir.
+Eventsler aslında bir pattern dir.
+
+Delege kullanarak events in mekanizmasını kuruyoruz. Bir yerde event varsa orada mutlaka delege de vardır.
+Event ler class member ı dır. class ın içinde olur yada interface içinde de olabilir. delege böyle değil.
+
+Event oluşturmanın 6 aşaması var. 6 aşamada event ları oluşturur ve kullanırız.
+
+sistemin çalışma mekaniği var ben buna müdahil olmuyorum fakat ben özelleştirebiliyorum,
+çamaşır makinesi örneği, event olayı.
+
+1. Temsilciye ihtiyaç var, bu temsilciyi siz de yazabilirsiniz var olan temsilciyi de kullanabilirsiniz.
+2. O temsilci tipinden event tanımlanır. 
+3. Olayı tetikleyecek mekanizma kurulur. 
+4. Class oluşturulur.
+5. Olaya bir metot bağlanır. 
+6. Çalıştır. 
+
+PARTIAL CLASS:
+Parçalı class.iki farklı lokasyonda-dosyada class ın üyeleri var demektir. 
