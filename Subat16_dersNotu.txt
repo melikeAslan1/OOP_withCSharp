@@ -8,6 +8,9 @@ bir şey static ise tek bir kopyası tutulur. RAM de ondan bir tane olur.
 
 bir class statikse içindekiler de statik olur ama tersi doğru değil. statik olmayan bişeyin içinde statik memberlar olabilir.
 
+YAPICI İLE İLGİLİ NOT: kalıtım almış bir sınıfın yapıcısı calışınca ilk olarak kalıtım aldığı ana sınıfın yapıcısı çalışır, sonra da kendi yapıcısı çalışır,
+yani toplamda 2 yapıcı üst üste çalışır.
+
 ABSTRACT:
 
 Karmaşıklığı yönetmek için kullanılır.

@@ -5,3 +5,10 @@ C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Su
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.exe
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.pdb
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.exe.config
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.exe
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\bin\Debug\Subat15_Sekil.pdb
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.exe
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_Sekil\obj\Debug\Subat15_Sekil.pdb

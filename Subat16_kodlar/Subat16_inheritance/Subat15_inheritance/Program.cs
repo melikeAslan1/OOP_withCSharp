@@ -14,7 +14,7 @@ namespace Subat15_inheritance
 
         protected void Islem()
         {
-            // protected o class ta ve o class tan tüketilen class larda gecerli oluyor. 
+            // protected o class ta ve o class tan türetilen class larda gecerli oluyor. 
         }
     }
 
