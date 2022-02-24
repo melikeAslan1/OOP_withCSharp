@@ -1,0 +1,7 @@
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\bin\Debug\Ornek.exe.config
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\bin\Debug\Ornek.exe
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\bin\Debug\Ornek.pdb
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\obj\Debug\Ornek.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\obj\Debug\Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\obj\Debug\Ornek.exe
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_2\obj\Debug\Ornek.pdb
