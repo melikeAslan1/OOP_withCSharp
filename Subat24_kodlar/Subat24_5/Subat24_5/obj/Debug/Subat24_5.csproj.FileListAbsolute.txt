@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\bin\Debug\Subat24_5.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\bin\Debug\Subat24_5.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\bin\Debug\Subat24_5.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\obj\Debug\Subat24_5.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\obj\Debug\Subat24_5.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat24_5\Subat24_5\obj\Debug\Subat24_5.pdb

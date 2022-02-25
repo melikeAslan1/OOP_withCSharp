@@ -1,0 +1,84 @@
+LINQ (Language Integrated Query):
+
+Entity framework ile birlikte c# da baya kullanılıyor. 
+Lamda expression varsa bir yerde delegate vardır.
+
+LINQ teknolojisi dilin içine entegre edilmiştir. 
+
+Data!=Object
+Data veri tabanı ile ilişkili.
+online oyunlar var onda bile database var.
+object kodlama yaptığımız alan. (c#, java, Phyton)
+iki evren var biri objeyle diğeri relational yani ilişkisel. 
+Bütün mesele DB yi yani ilişkisel yapıyı object e cevirmek. ORM Tool u bunu yapar.
+
+Relational database(ilişkisel veri tabanı) kavramı 60 lı yıllardan itibaren vardır. 
+
+bir yerde çoka çok ilişki varsa(bir öğrenci birden fazla ders alabilir, bir dersi birden çok öğrenci alabilir) orada mutlaka tablo vardır.
+
+---select cümleleri yazma + jonler + where 20 saat çalışma -raporlama uzmanlığı-, bankalar, operatörler alıyor. ----
+
+bu 8 teknolojisiyle LINQ yazabiliyoruz yani bunlar LINQ nun alt yapısını oluşturur:
+1. var
+2. Auto property
+3. Object init.
+4. Collection init.
+5. Anonymous Object
+6. Extension Methods
+7.Expression Trees 
+8. Lambda Exp.
+
+
+Ling to Object
+Ling to XML
+Ling to SQL
+
+entity framework un ilk aşaması Ling to SQL dir. Entity framework her türlü ilişkisel veri tabanı ile çalışabiliyor (Oracle falan da). fakat Ling to SQL sadece SQL Server üzerinde.
+
+Ling to SQL ve Entity framework ilk çıktığında 
+1. Model First   
+2. Database First 
+iki yöntem kullanıldı, sonrasında EF 4.0  3.Code First(--> Model First 
+                                                       --> Database First  )
+
+Model First deyince: eğer sıfırdan bir veritabanı geliştireceksem.
+Size tavsiyem: herhangi bir ilişkisel veri tabanı sistemini bilin öğrenin. 
+
+sealed class tan baska bir class türetilemez.
+
+Linq metotları: select, where...
+Extension bir metot yazmanın kuralları:
+1. Static bir class olmalı.
+2. Mutlaka static sınıf içerisindeki metotlar da static olmalı.
+3. Metodun ilk parametresi this ile başlamalı, ilgili yapılara eklenmeli...
+
+
+---------------------------------------------------------------------------------------
+
+Exception Handling(İstisnaların Yakalanması)
+
+1. Gramer hatası gibi, Syntatic Error
+2. Mantıksal Hatalar.. bunları yakalamak zordur.
+
+hata olunca program exe dosyasını sonlandırdı biz bunu istemiyoruz.
+
+if le yaklayabildiğin durum varsa if le yapıcaksın, yapamıyosan try catch ile. Riskin olduğu yeri try içine al.
+
+4 kavram var, 3 ü istisnaları yakalamakla ilgili, 1 i hatayı fırlatmakla ilgilidir. 
+Throw exception yani istisna fırlatmak için kullanılır.
+
+en genel exceptionları- hataları en sona at
+
+
+
+
+
+
+
+
+
+
+
+
+
+
