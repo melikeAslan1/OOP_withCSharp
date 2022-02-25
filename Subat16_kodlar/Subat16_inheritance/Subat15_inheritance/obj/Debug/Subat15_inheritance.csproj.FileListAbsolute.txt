@@ -2,3 +2,7 @@ C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_inheritance\obj\De
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.Form1.resources
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.csproj.GenerateResource.cache
 C:\Users\303MELİKE_SABAH\Desktop\Subat15_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.Form1.resources
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.csproj.GenerateResource.cache
+C:\Users\Melike\Documents\GitHub\OOP_withCSharp\Subat16_kodlar\Subat16_inheritance\Subat15_inheritance\obj\Debug\Subat15_inheritance.csproj.CoreCompileInputs.cache

@@ -34,8 +34,7 @@ namespace Subat15_Sekil
         }
     }
 
-    //miras konusuna constructureda parametreler arası transfer 
-    // türeyen sınıflarda yapıcı kullanmak biraz zor gibi teknik bilgi gerektirir.
+   
 
 
     class Circle
@@ -66,7 +65,7 @@ namespace Subat15_Sekil
         }
     }
 
-
+    
     class Program
     {
         static void Main(string[] args)
@@ -79,15 +78,13 @@ namespace Subat15_Sekil
 
             Console.WriteLine(d.DaireAlanHesapla());
 
+          
+
             Silindir s = new Silindir() { r = 3, h = 10 };
             Console.WriteLine(s.SilindirHacimHesapla());
 
             Koni k = new Koni() { r = 3, h = 10 };
             Console.WriteLine(k.KoniHacimHesapla());
-
-
-
-
 
 
             Circle circle = new Circle(3);
