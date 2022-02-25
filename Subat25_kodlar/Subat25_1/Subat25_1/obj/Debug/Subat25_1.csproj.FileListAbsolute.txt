@@ -1,0 +1,12 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Subat25_1.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Subat25_1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Subat25_1.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Matematik.dll
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Matematik.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\obj\Debug\Subat25_1.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\obj\Debug\Subat25_1.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\obj\Debug\Subat25_1.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\obj\Debug\Subat25_1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\obj\Debug\Subat25_1.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Subat25_2_Kimya.dll
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Subat25_1\bin\Debug\Subat25_2_Kimya.pdb

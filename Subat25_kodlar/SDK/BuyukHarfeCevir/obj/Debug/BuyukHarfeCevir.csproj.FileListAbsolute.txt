@@ -1,0 +1,9 @@
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\bin\Debug\BuyukHarfeCevir.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\bin\Debug\BuyukHarfeCevir.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\obj\Debug\BuyukHarfeCevir.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\obj\Debug\BuyukHarfeCevir.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\obj\Debug\BuyukHarfeCevir.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\obj\Debug\BuyukHarfeCevir.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\bin\Debug\SDK.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\bin\Debug\SDK.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\BuyukHarfeCevir\obj\Debug\BuyukHarfeCevir.csproj.CopyComplete

@@ -1,0 +1,24 @@
+DLL kütüphanedir.
+exe dosyalara da DLL dosyalara da biz assambly diyoruz. programlama dili olan assambly ile karıştırma isim aynı.
+exe dosyaların içinde mutlaka main metodu bulunur bu bütün dillerde böyle, ilk main aranır bi koda bakıldığında, DLL de entry point yok.
+
+reflection: class ın ne olduğunu bilmeden onu kullanabilmektir. 
+
+
+SDK bir DLL fakat içinde bir yada daha fazla interface olmalı.     ISDK diye bir interface, pluggin tak çalıştırdır. 
+önce SDK yı oluştur sonra class ları.
+
+A:ISDK
+B:ISDK
+C:ISDK
+D:ISDK
+E:ISDK
+F:ISDK                   A,C... Pluggin ler dir.
+
+
+
+Buton a tıkladın diyelim event falan olustu. 
+
+
+
+

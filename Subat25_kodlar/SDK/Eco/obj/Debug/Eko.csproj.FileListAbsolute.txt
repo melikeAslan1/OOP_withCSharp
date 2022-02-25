@@ -1,0 +1,9 @@
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\bin\Debug\Eco.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\bin\Debug\Eco.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\bin\Debug\SDK.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\bin\Debug\SDK.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\obj\Debug\Eko.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\obj\Debug\Eko.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\obj\Debug\Eko.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\obj\Debug\Eco.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\Eco\obj\Debug\Eco.pdb

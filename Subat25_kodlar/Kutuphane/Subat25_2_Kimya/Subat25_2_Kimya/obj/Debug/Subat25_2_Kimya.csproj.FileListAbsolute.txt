@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\bin\Debug\Subat25_2_Kimya.dll
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\bin\Debug\Subat25_2_Kimya.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\obj\Debug\Subat25_2_Kimya.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\obj\Debug\Subat25_2_Kimya.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\obj\Debug\Subat25_2_Kimya.dll
+C:\Users\303MELİKE_SABAH\Desktop\Kutuphane\Subat25_2_Kimya\Subat25_2_Kimya\obj\Debug\Subat25_2_Kimya.pdb

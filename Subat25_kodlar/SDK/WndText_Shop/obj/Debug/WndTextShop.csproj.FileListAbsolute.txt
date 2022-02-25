@@ -1,0 +1,13 @@
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\bin\Debug\WndText_Shop.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\bin\Debug\WndText_Shop.exe
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\bin\Debug\WndText_Shop.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\bin\Debug\SDK.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\bin\Debug\SDK.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndTextShop.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndText_Shop.Form1.resources
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndText_Shop.Properties.Resources.resources
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndTextShop.csproj.GenerateResource.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndTextShop.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndTextShop.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndText_Shop.exe
+C:\Users\303MELİKE_SABAH\Desktop\SDK\WndText_Shop\obj\Debug\WndText_Shop.pdb

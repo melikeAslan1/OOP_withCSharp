@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\bin\Debug\Matematik.dll
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\bin\Debug\Matematik.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\obj\Debug\Matematik.dll
+C:\Users\303MELİKE_SABAH\Desktop\Subat25_1\Matematik\obj\Debug\Matematik.pdb

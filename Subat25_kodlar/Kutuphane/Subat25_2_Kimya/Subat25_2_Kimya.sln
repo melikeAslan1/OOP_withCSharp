@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subat25_2_Kimya", "Subat25_2_Kimya\Subat25_2_Kimya.csproj", "{55DDF2A0-EBB3-417D-AFFC-52088DCCF519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DDF2A0-EBB3-417D-AFFC-52088DCCF519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DDF2A0-EBB3-417D-AFFC-52088DCCF519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DDF2A0-EBB3-417D-AFFC-52088DCCF519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DDF2A0-EBB3-417D-AFFC-52088DCCF519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BAEAE97-9D15-4AAD-A1F3-6AF9828806D7}
+	EndGlobalSection
+EndGlobal

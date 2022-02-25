@@ -1,0 +1,8 @@
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\bin\Debug\TersCevir.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\bin\Debug\TersCevir.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\bin\Debug\SDK.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\bin\Debug\SDK.pdb
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\obj\Debug\TersCevir.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\obj\Debug\TersCevir.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\obj\Debug\TersCevir.dll
+C:\Users\303MELİKE_SABAH\Desktop\SDK\TersCevir\obj\Debug\TersCevir.pdb
